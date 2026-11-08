@@ -1,2 +1,7 @@
 __pycache__/
 *.pyc
+modelo_*.pt
+base_fase*.pt
+*.bak
+__pycache__/
+treino*log*.txt
